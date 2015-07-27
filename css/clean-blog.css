@@ -15,7 +15,9 @@
   display: inline;
 }
 img {
-display: inline;}
+display: inline-block;
+	
+}
 .overlay {
   background:  rgba(127, 140, 141, 0.8);
   width: 100%;
