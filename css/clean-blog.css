@@ -24,6 +24,11 @@ display: inline-block;
   height: 100%;
 }
 
+picture {
+	height: 50px;
+	width: 50px;
+}
+
 .overlay:hover {
   background: rgba(211, 84, 0, 0);
 }
